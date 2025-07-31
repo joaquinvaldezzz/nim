@@ -31,17 +31,17 @@
    Update the template data in the `app/data.ts` file.
 
    ```ts
-   export const EMAIL = 'your@email.com'
+   export const EMAIL = "your@email.com";
 
    export const SOCIAL_LINKS = [
      {
-       label: 'Github',
-       link: 'your-github-url',
+       label: "Github",
+       link: "your-github-url",
      },
      // Add your social links
-   ]
+   ];
 
-   ...
+   // ...
    ```
 
 5. **Add your blog posts**
